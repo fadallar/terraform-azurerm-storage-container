@@ -1,1 +1,3 @@
-# terraform-azurerm-storage-container
+<!-- BEGIN_AUTOMATED_TF_DOCS_BLOCK -->
+
+<!-- END_AUTOMATED_TF_DOCS_BLOCK -->
